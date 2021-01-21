@@ -2,8 +2,8 @@
   url: /
   external: false
 
-- title: archive
-  url: /archive/
+- title: portfolio
+  url: /portfolio/
   external: false
 
 - title: about
