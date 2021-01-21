@@ -4,7 +4,6 @@ description: >- # site description
 
 lang: en-US # default lang
 timezone: Asia/Manila # set your timezone
-image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
 repo: https://github.com/eperol-tip/eperol-tip.github.io # site repo [optional]
 mode: dark # default theme "dark" | "light"
 
@@ -18,7 +17,7 @@ author:
   twitter: elainperol # twitter username
   facebook: elainperol # facebook username
   email: qesperol@tip.edu.ph # email adress
-  avatar: /assets/img/avatar.jpg # change with your own avatar
+  avatar: /assets/img/avatar.png # change with your own avatar
 
 # URL settings
 url: "https://eperol-tip.github.io" #
