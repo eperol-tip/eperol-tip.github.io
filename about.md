@@ -5,10 +5,10 @@ layout: page
 excerpt: 
 comments: false
 ---
-This site is a project for System Administration 
+                        This site is a project for System Administration 
 
 **Contact me on:**
 
 - {{ site.author.email }}
-- [Facebook](facebook.com/elainperol)
-- [GitHub](https://github.com/eperol-tip)
+- github.com/{{ site.author.github }}
+- facebook.com/{{ site.author.facebook }}
