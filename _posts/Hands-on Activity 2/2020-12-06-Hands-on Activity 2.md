@@ -73,7 +73,7 @@ Commands used:
 
 12.Request a pull request for the master branch in https://github.com/ajcanlas-tip/sysad2-12021.git (Links to an external site.) and activity2 branch of your forked repository
 
-OUTPUT: [https://github.com/eperol-tip/sysad2-12021/blob/activity2/eperol-tip/activity2/HA2.md]
+OUTPUT: [On GitHub](https://github.com/eperol-tip/sysad2-12021/blob/activity2/eperol-tip/activity2/HA2.md)
 
 {% highlight ruby %}
 .  
