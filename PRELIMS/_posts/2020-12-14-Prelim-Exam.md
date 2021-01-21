@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Prelim Exam"
+title:  "Prelim: Hands-on Prelim Exam"
 date:   2020-12-14 11:59:00 +0700
 categories: Prelims
 ---
