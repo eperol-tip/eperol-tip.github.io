@@ -7,8 +7,8 @@ comments: false
 ---
 This site is a project for System Administration 
 
-**Contact me in: **
+**Contact me on:**
 
 - {{ site.author.email }}
-- github.com/{{ site.author.github }}
-- facebook.com/{{ site.author.facebook }}
+- [Facebook](facebook.com/elainperol)
+- [GitHub](https://github.com/eperol-tip)
