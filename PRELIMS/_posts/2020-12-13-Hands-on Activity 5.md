@@ -2,7 +2,7 @@
 layout: post
 title:  "Hands-on Activity 5"
 date:   2020-12-13 11:59:00 +0700
-categories: Hands-0n Actitviy
+categories: Prelims
 ---
 Procedure:
 
